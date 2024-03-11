@@ -1,0 +1,5852 @@
+{
+    "type": "FeatureCollection",
+    "name": "医院超市学校",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市石化医院",
+                "longitude": 114.439668,
+                "latitude": 30.663105,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.439668,
+                    30.663105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉大学人民医院湖北省人民医院青山医院",
+                "longitude": 114.408079,
+                "latitude": 30.642915,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408079,
+                    30.642915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市武东医院",
+                "longitude": 114.468962,
+                "latitude": 30.580831,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.468962,
+                    30.580831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第九医院",
+                "longitude": 114.386174,
+                "latitude": 30.629789,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.386174,
+                    30.629789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院",
+                "longitude": 114.387046,
+                "latitude": 30.637524,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387046,
+                    30.637524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华润武钢总医院",
+                "longitude": 114.410101,
+                "latitude": 30.637855,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410101,
+                    30.637855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区红钢城街社区卫生服务中心(青...",
+                "longitude": 114.408058,
+                "latitude": 30.642976,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408058,
+                    30.642976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区妇幼保健院",
+                "longitude": 114.37753,
+                "latitude": 30.623213,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.37753,
+                    30.623213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉大学人民医院青山总医院",
+                "longitude": 114.386448,
+                "latitude": 30.63007,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.386448,
+                    30.63007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "四七一医院",
+                "longitude": 114.463095,
+                "latitude": 30.586703,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.463095,
+                    30.586703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第一医院",
+                "longitude": 114.278513,
+                "latitude": 30.578088,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.278513,
+                    30.578088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市石化医院-东门",
+                "longitude": 114.440361,
+                "latitude": 30.662703,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.440361,
+                    30.662703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉爱尔眼科青山医院",
+                "longitude": 114.388555,
+                "latitude": 30.634981,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.388555,
+                    30.634981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武钢总医院-门诊部",
+                "longitude": 114.409503,
+                "latitude": 30.637769,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.409503,
+                    30.637769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市武东医院-停车场",
+                "longitude": 114.468544,
+                "latitude": 30.581367,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.468544,
+                    30.581367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区儿童医院",
+                "longitude": 114.403869,
+                "latitude": 30.639241,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403869,
+                    30.639241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉甲康医院",
+                "longitude": 114.35944,
+                "latitude": 30.616846,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.35944,
+                    30.616846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市青山区教育局",
+                "longitude": 114.403073,
+                "latitude": 30.639387,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403073,
+                    30.639387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉普仁广惠医院",
+                "longitude": 114.470021,
+                "latitude": 30.585245,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.470021,
+                    30.585245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉普仁青船医院",
+                "longitude": 114.444162,
+                "latitude": 30.660758,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.444162,
+                    30.660758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市武东医院-西北门",
+                "longitude": 114.468705,
+                "latitude": 30.581492,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.468705,
+                    30.581492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第七医院",
+                "longitude": 114.338093,
+                "latitude": 30.548309,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.338093,
+                    30.548309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武钢第二职工医院-门诊部",
+                "longitude": 114.493177,
+                "latitude": 30.609089,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.493177,
+                    30.609089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉青山口腔专科门诊",
+                "longitude": 114.405322,
+                "latitude": 30.627325,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.405322,
+                    30.627325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市青山区疾病预防控制中心",
+                "longitude": 114.409982,
+                "latitude": 30.644118,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.409982,
+                    30.644118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉岱山医院",
+                "longitude": 114.33741,
+                "latitude": 30.654135,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.33741,
+                    30.654135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钢都花园-社区卫生服务中心",
+                "longitude": 114.375366,
+                "latitude": 30.619406,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.375366,
+                    30.619406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市江夏区第一人民医院",
+                "longitude": 114.327041,
+                "latitude": 30.377166,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.327041,
+                    30.377166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-住院楼",
+                "longitude": 114.38661,
+                "latitude": 30.637218,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.38661,
+                    30.637218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-门诊",
+                "longitude": 114.387002,
+                "latitude": 30.636935,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387002,
+                    30.636935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市青山区普仁医院-医技综合大楼",
+                "longitude": 114.387559,
+                "latitude": 30.63727,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387559,
+                    30.63727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武钢二医院北院区",
+                "longitude": 114.41043,
+                "latitude": 30.64877,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.41043,
+                    30.64877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市黄陂区人民医院",
+                "longitude": 114.377307,
+                "latitude": 30.89424,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.377307,
+                    30.89424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉科技大学医院青山分院",
+                "longitude": 114.375049,
+                "latitude": 30.628227,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.375049,
+                    30.628227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉普仁利平医院",
+                "longitude": 114.424862,
+                "latitude": 30.651066,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.424862,
+                    30.651066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区新沟桥街社区卫生服务中心(西院区)",
+                "longitude": 114.403834,
+                "latitude": 30.639246,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403834,
+                    30.639246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市江夏区第一人民医院",
+                "longitude": 114.327041,
+                "latitude": 30.377166,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.327041,
+                    30.377166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区新沟桥街社区卫生服务中心(东院区)",
+                "longitude": 114.415271,
+                "latitude": 30.6364,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.415271,
+                    30.6364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区青山镇街社区卫生服务中心",
+                "longitude": 114.439939,
+                "latitude": 30.662746,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.439939,
+                    30.662746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉科技大学医院青山分院",
+                "longitude": 114.375049,
+                "latitude": 30.628227,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.375049,
+                    30.628227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市中医医院",
+                "longitude": 114.304382,
+                "latitude": 30.594185,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.304382,
+                    30.594185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市武昌医院(西区)",
+                "longitude": 114.347663,
+                "latitude": 30.608794,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.347663,
+                    30.608794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉青山玉堂中医门诊部",
+                "longitude": 114.488887,
+                "latitude": 30.608714,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.488887,
+                    30.608714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市青山区社区矫正中心",
+                "longitude": 114.401602,
+                "latitude": 30.639059,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.401602,
+                    30.639059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉冶金科技大学校医院",
+                "longitude": 114.374999,
+                "latitude": 30.628278,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374999,
+                    30.628278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武钢二医院北院区-南门",
+                "longitude": 114.41048,
+                "latitude": 30.648599,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.41048,
+                    30.648599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武东医院-急诊科",
+                "longitude": 114.469274,
+                "latitude": 30.58112,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.469274,
+                    30.58112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市石化医院-北门",
+                "longitude": 114.438831,
+                "latitude": 30.663458,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.438831,
+                    30.663458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉科技大学附属汉阳医院百沐仁和中医医院",
+                "longitude": 114.384192,
+                "latitude": 30.634772,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.384192,
+                    30.634772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第六医院",
+                "longitude": 114.296803,
+                "latitude": 30.605574,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.296803,
+                    30.605574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉大学人民医院",
+                "longitude": 114.306012,
+                "latitude": 30.541062,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.306012,
+                    30.541062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区武东街东区社区卫生服务中心",
+                "longitude": 114.469915,
+                "latitude": 30.58548,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.469915,
+                    30.58548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区白玉山街社区卫生服务中心",
+                "longitude": 114.493149,
+                "latitude": 30.609588,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.493149,
+                    30.609588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-6号楼",
+                "longitude": 114.387194,
+                "latitude": 30.638232,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387194,
+                    30.638232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉普仁医院体检中心(青山院区)",
+                "longitude": 114.386945,
+                "latitude": 30.636859,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.386945,
+                    30.636859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市金银潭医院",
+                "longitude": 114.291555,
+                "latitude": 30.672579,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.291555,
+                    30.672579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市武东医院停车场-出入口",
+                "longitude": 114.468705,
+                "latitude": 30.581492,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.468705,
+                    30.581492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区白玉山街社区服务中心",
+                "longitude": 114.493117,
+                "latitude": 30.609624,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.493117,
+                    30.609624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武东医院-中医科",
+                "longitude": 114.468597,
+                "latitude": 30.58024,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.468597,
+                    30.58024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市中心医院(后湖院区)",
+                "longitude": 114.271967,
+                "latitude": 30.634191,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.271967,
+                    30.634191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第三医院光谷院区",
+                "longitude": 114.417766,
+                "latitude": 30.504676,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.417766,
+                    30.504676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市汉口医院",
+                "longitude": 114.307149,
+                "latitude": 30.631403,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.307149,
+                    30.631403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-1号楼",
+                "longitude": 114.387249,
+                "latitude": 30.638229,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387249,
+                    30.638229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉亚洲心脏病医院",
+                "longitude": 114.288865,
+                "latitude": 30.58878,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.288865,
+                    30.58878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉大学人民医院-东院",
+                "longitude": 114.447353,
+                "latitude": 30.447225,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.447353,
+                    30.447225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武峰中医门诊部",
+                "longitude": 114.380262,
+                "latitude": 30.633647,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.380262,
+                    30.633647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第三医院(首义院区)",
+                "longitude": 114.309765,
+                "latitude": 30.546376,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.309765,
+                    30.546376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-8号楼",
+                "longitude": 114.385956,
+                "latitude": 30.637969,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.385956,
+                    30.637969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-5号楼",
+                "longitude": 114.387455,
+                "latitude": 30.637871,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387455,
+                    30.637871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区钢花村街社区卫生服务中心",
+                "longitude": 114.398304,
+                "latitude": 30.623293,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.398304,
+                    30.623293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-东北1门",
+                "longitude": 114.387432,
+                "latitude": 30.638006,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387432,
+                    30.638006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武东医院宿舍",
+                "longitude": 114.468966,
+                "latitude": 30.580648,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.468966,
+                    30.580648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-9号楼",
+                "longitude": 114.38636,
+                "latitude": 30.638228,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.38636,
+                    30.638228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "协和东西湖医院",
+                "longitude": 114.139361,
+                "latitude": 30.65512,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.139361,
+                    30.65512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉冶金科技大学校医院-东北门",
+                "longitude": 114.374991,
+                "latitude": 30.628405,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374991,
+                    30.628405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-感染科",
+                "longitude": 114.387347,
+                "latitude": 30.638033,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387347,
+                    30.638033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-11号楼",
+                "longitude": 114.386644,
+                "latitude": 30.638168,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.386644,
+                    30.638168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山疾控妇幼公共卫生中心",
+                "longitude": 114.385286,
+                "latitude": 30.629815,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.385286,
+                    30.629815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "住院部",
+                "longitude": 114.410566,
+                "latitude": 30.648853,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410566,
+                    30.648853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖北省中医院",
+                "longitude": 114.316364,
+                "latitude": 30.555994,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.316364,
+                    30.555994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市中医医院(汉阳院区)",
+                "longitude": 114.221832,
+                "latitude": 30.525512,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.221832,
+                    30.525512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉大学口腔医院",
+                "longitude": 114.372577,
+                "latitude": 30.528,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.372577,
+                    30.528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市青山区正吉堂中医门诊部",
+                "longitude": 114.413456,
+                "latitude": 30.646499,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.413456,
+                    30.646499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉江夏区雷神山医院",
+                "longitude": 114.300386,
+                "latitude": 30.436154,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.300386,
+                    30.436154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市普仁医院-东南1门",
+                "longitude": 114.387494,
+                "latitude": 30.636594,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387494,
+                    30.636594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市江夏区精神医院",
+                "longitude": 114.315525,
+                "latitude": 30.411044,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.315525,
+                    30.411044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武钢二医院",
+                "longitude": 114.386962,
+                "latitude": 30.622549,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.386962,
+                    30.622549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉轻工大学常青东校区-医院",
+                "longitude": 114.252667,
+                "latitude": 30.642647,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.252667,
+                    30.642647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区青山镇街社区卫生服务中心-发热门诊",
+                "longitude": 114.439939,
+                "latitude": 30.662746,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.439939,
+                    30.662746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉普仁青船医院停车场",
+                "longitude": 114.443985,
+                "latitude": 30.66056,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.443985,
+                    30.66056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉钢铁(集团)公司第二职工医院(...",
+                "longitude": 114.494015,
+                "latitude": 30.608939,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.494015,
+                    30.608939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山区八大家社区卫生站(吉林街)",
+                "longitude": 114.390992,
+                "latitude": 30.633177,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.390992,
+                    30.633177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国人民解放军中部战区总医院(汉口院区)",
+                "longitude": 114.315503,
+                "latitude": 30.620517,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.315503,
+                    30.620517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市青山区疾病预防控制局",
+                "longitude": 114.379307,
+                "latitude": 30.621056,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.379307,
+                    30.621056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉大学附属爱尔眼科医院",
+                "longitude": 114.325366,
+                "latitude": 30.545158,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.325366,
+                    30.545158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市儿童医院门诊部",
+                "longitude": 114.294314,
+                "latitude": 30.608772,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.294314,
+                    30.608772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉轻工大学(金银湖校区)-医院",
+                "longitude": 114.230104,
+                "latitude": 30.66035,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.230104,
+                    30.66035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "梦羽美容养生会所",
+                "longitude": 114.490667,
+                "latitude": 30.612997,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.490667,
+                    30.612997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市精神卫生中心(六角亭院区)",
+                "longitude": 114.280812,
+                "latitude": 30.580535,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.280812,
+                    30.580535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国一冶青山疾控&平站结合大楼项目部",
+                "longitude": 114.386893,
+                "latitude": 30.629453,
+                "attribute": "医院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.386893,
+                    30.629453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华中师大一附中",
+                "longitude": 114.397569,
+                "latitude": 30.459763,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.397569,
+                    30.459763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖北大学知行学院",
+                "longitude": 114.379343,
+                "latitude": 30.695386,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.379343,
+                    30.695386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖北第二师范学院",
+                "longitude": 114.45557,
+                "latitude": 30.486322,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.45557,
+                    30.486322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉生物工程学院",
+                "longitude": 114.533094,
+                "latitude": 30.718908,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.533094,
+                    30.718908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉城市职业学院(南校区)",
+                "longitude": 114.320914,
+                "latitude": 30.445304,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.320914,
+                    30.445304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市江汉区红领巾学校(阳光校区)",
+                "longitude": 114.256161,
+                "latitude": 30.632963,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256161,
+                    30.632963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉文理学院",
+                "longitude": 114.423047,
+                "latitude": 30.739369,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.423047,
+                    30.739369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武昌职业学院",
+                "longitude": 114.40595,
+                "latitude": 30.377915,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40595,
+                    30.377915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市江夏区第一中学",
+                "longitude": 114.344963,
+                "latitude": 30.368362,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.344963,
+                    30.368362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东西湖区职业技术学校",
+                "longitude": 114.136745,
+                "latitude": 30.621236,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.136745,
+                    30.621236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市恒大嘉园学校",
+                "longitude": 114.119456,
+                "latitude": 30.636926,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.119456,
+                    30.636926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市实验学校",
+                "longitude": 114.284494,
+                "latitude": 30.644073,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.284494,
+                    30.644073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "官士墩中学",
+                "longitude": 114.188137,
+                "latitude": 30.536249,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.188137,
+                    30.536249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉工贸职业学院",
+                "longitude": 114.421773,
+                "latitude": 30.535115,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.421773,
+                    30.535115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市新洲区第一中学",
+                "longitude": 114.821851,
+                "latitude": 30.854544,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.821851,
+                    30.854544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉交通职业学院",
+                "longitude": 114.272959,
+                "latitude": 30.433809,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.272959,
+                    30.433809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长江工程职业技术学院",
+                "longitude": 114.322349,
+                "latitude": 30.408542,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.322349,
+                    30.408542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市旅游学校",
+                "longitude": 114.253112,
+                "latitude": 30.637093,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.253112,
+                    30.637093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市财政学校",
+                "longitude": 114.205281,
+                "latitude": 30.572842,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.205281,
+                    30.572842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第二轻工业学校",
+                "longitude": 114.419743,
+                "latitude": 30.636361,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.419743,
+                    30.636361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三里桥中学",
+                "longitude": 114.43246,
+                "latitude": 30.785699,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.43246,
+                    30.785699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市建设学校",
+                "longitude": 114.224453,
+                "latitude": 30.572693,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.224453,
+                    30.572693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第二卫生学校",
+                "longitude": 114.810079,
+                "latitude": 30.858049,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.810079,
+                    30.858049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉工程职业技术学院(校本部)",
+                "longitude": 114.553483,
+                "latitude": 30.718569,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.553483,
+                    30.718569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市新洲区城关高级中学",
+                "longitude": 114.775699,
+                "latitude": 30.831568,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.775699,
+                    30.831568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "光谷第二十九小学",
+                "longitude": 114.616508,
+                "latitude": 30.499153,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.616508,
+                    30.499153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武昌区南湖第二小学",
+                "longitude": 114.31781,
+                "latitude": 30.516206,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.31781,
+                    30.516206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂五岭中学",
+                "longitude": 114.24425,
+                "latitude": 30.947188,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.24425,
+                    30.947188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第四十九中学",
+                "longitude": 114.412531,
+                "latitude": 30.65342,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.412531,
+                    30.65342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "木兰山文武学校",
+                "longitude": 114.39931,
+                "latitude": 31.041259,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.39931,
+                    31.041259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市黄陂区第一中学",
+                "longitude": 114.369523,
+                "latitude": 30.910355,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.369523,
+                    30.910355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "甘棠中学",
+                "longitude": 114.590793,
+                "latitude": 30.883499,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.590793,
+                    30.883499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉工程职业技术学院(凤凰山校区)",
+                "longitude": 114.428302,
+                "latitude": 30.655896,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.428302,
+                    30.655896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市新洲高级职业中学",
+                "longitude": 114.713945,
+                "latitude": 30.779417,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.713945,
+                    30.779417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "孔埠中学",
+                "longitude": 114.680391,
+                "latitude": 30.811928,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.680391,
+                    30.811928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉经济技术开发区第一中学",
+                "longitude": 114.16162,
+                "latitude": 30.515862,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.16162,
+                    30.515862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉大学(医学部)",
+                "longitude": 114.360243,
+                "latitude": 30.560407,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.360243,
+                    30.560407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉华中艺术学校",
+                "longitude": 114.423684,
+                "latitude": 30.543762,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.423684,
+                    30.543762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "挖沟中学",
+                "longitude": 114.748483,
+                "latitude": 30.618534,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.748483,
+                    30.618534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂区蔡榨中学",
+                "longitude": 114.546495,
+                "latitude": 30.925658,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.546495,
+                    30.925658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲三中",
+                "longitude": 114.578148,
+                "latitude": 30.681912,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.578148,
+                    30.681912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市体育运动学校",
+                "longitude": 114.224495,
+                "latitude": 30.577522,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.224495,
+                    30.577522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市江夏区第四中学",
+                "longitude": 114.319815,
+                "latitude": 30.360594,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.319815,
+                    30.360594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂区罗汉小学",
+                "longitude": 114.314338,
+                "latitude": 30.9572,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.314338,
+                    30.9572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新集中学",
+                "longitude": 114.951163,
+                "latitude": 30.899628,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.951163,
+                    30.899628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲区旧街街新集小学",
+                "longitude": 114.956873,
+                "latitude": 30.899181,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.956873,
+                    30.899181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "姚集中学",
+                "longitude": 114.384535,
+                "latitude": 31.222302,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.384535,
+                    31.222302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂区双凤中学",
+                "longitude": 114.389306,
+                "latitude": 30.879013,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.389306,
+                    30.879013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市任家路中学",
+                "longitude": 114.380197,
+                "latitude": 30.628601,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.380197,
+                    30.628601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市第二高级技工学校",
+                "longitude": 114.825926,
+                "latitude": 30.831214,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.825926,
+                    30.831214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲区辛冲镇东城小学",
+                "longitude": 114.833204,
+                "latitude": 30.837263,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.833204,
+                    30.837263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "何田小学",
+                "longitude": 114.731513,
+                "latitude": 30.944527,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.731513,
+                    30.944527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "道观小学",
+                "longitude": 114.989146,
+                "latitude": 30.881157,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.989146,
+                    30.881157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲区仓埠初级中学",
+                "longitude": 114.616034,
+                "latitude": 30.840787,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.616034,
+                    30.840787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "李集街莲花小学",
+                "longitude": 114.698015,
+                "latitude": 30.936684,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.698015,
+                    30.936684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蔡店小学",
+                "longitude": 114.306886,
+                "latitude": 31.286641,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.306886,
+                    31.286641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三店街第一初级中学",
+                "longitude": 114.793951,
+                "latitude": 30.927527,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.793951,
+                    30.927527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华中师范大学-职业与继续教育学院(...",
+                "longitude": 114.364542,
+                "latitude": 30.512269,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.364542,
+                    30.512269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "韩集中学",
+                "longitude": 114.532732,
+                "latitude": 30.970277,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.532732,
+                    30.970277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市新洲区邾城街章程小学",
+                "longitude": 114.769832,
+                "latitude": 30.882826,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.769832,
+                    30.882826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂区长轩岭中心小学",
+                "longitude": 114.356274,
+                "latitude": 31.092928,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.356274,
+                    31.092928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉黄陂前川一小",
+                "longitude": 114.379978,
+                "latitude": 30.87214,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.379978,
+                    30.87214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "前川街鲁台小学",
+                "longitude": 114.398574,
+                "latitude": 30.871416,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.398574,
+                    30.871416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蔡店乡源泉小学",
+                "longitude": 114.237815,
+                "latitude": 31.232794,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.237815,
+                    31.232794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "李店小学",
+                "longitude": 114.950564,
+                "latitude": 30.986777,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.950564,
+                    30.986777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "石门山乡中心小学",
+                "longitude": 114.302261,
+                "latitude": 31.154269,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.302261,
+                    31.154269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂县研子小学",
+                "longitude": 114.34917,
+                "latitude": 31.027138,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.34917,
+                    31.027138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂区王家河中心小学",
+                "longitude": 114.427104,
+                "latitude": 30.971923,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.427104,
+                    30.971923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三店宋寨小学",
+                "longitude": 114.843749,
+                "latitude": 30.938836,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.843749,
+                    30.938836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "仓埠中心小学",
+                "longitude": 114.611124,
+                "latitude": 30.83589,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.611124,
+                    30.83589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市汉南区纱帽中学",
+                "longitude": 114.084165,
+                "latitude": 30.319468,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.084165,
+                    30.319468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "柿子中学",
+                "longitude": 114.441077,
+                "latitude": 31.151278,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.441077,
+                    31.151278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红星小学",
+                "longitude": 114.184239,
+                "latitude": 30.944966,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.184239,
+                    30.944966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市艺术学校",
+                "longitude": 114.159719,
+                "latitude": 30.527224,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.159719,
+                    30.527224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大陂小学",
+                "longitude": 114.481439,
+                "latitude": 30.940952,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.481439,
+                    30.940952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市新洲汉昕学校",
+                "longitude": 114.845061,
+                "latitude": 30.650787,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.845061,
+                    30.650787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金咀小学",
+                "longitude": 114.526297,
+                "latitude": 30.843964,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.526297,
+                    30.843964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武昌实验寄宿学校",
+                "longitude": 114.40032,
+                "latitude": 30.724134,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40032,
+                    30.724134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红旗小学(038乡道)",
+                "longitude": 114.185942,
+                "latitude": 31.01682,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.185942,
+                    31.01682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三合小学",
+                "longitude": 114.39453,
+                "latitude": 30.995011,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.39453,
+                    30.995011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白龙寺小学",
+                "longitude": 114.467056,
+                "latitude": 31.001873,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.467056,
+                    31.001873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲区阳逻街新店小学",
+                "longitude": 114.656124,
+                "latitude": 30.640676,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.656124,
+                    30.640676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "塔耳岗乡劳动小学",
+                "longitude": 114.42798,
+                "latitude": 31.12138,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.42798,
+                    31.12138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市黄陂区第六中学",
+                "longitude": 114.370496,
+                "latitude": 30.878607,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.370496,
+                    30.878607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "桂山小学",
+                "longitude": 114.722231,
+                "latitude": 30.836543,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.722231,
+                    30.836543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "育新服装学校",
+                "longitude": 114.358032,
+                "latitude": 31.098735,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.358032,
+                    31.098735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "罗汉寺建联小学",
+                "longitude": 114.374001,
+                "latitude": 30.950328,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374001,
+                    30.950328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "环城镇和平小学",
+                "longitude": 114.320183,
+                "latitude": 30.858117,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.320183,
+                    30.858117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新年小学",
+                "longitude": 114.303751,
+                "latitude": 30.776653,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.303751,
+                    30.776653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "程山小学",
+                "longitude": 114.670611,
+                "latitude": 30.835702,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.670611,
+                    30.835702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "李集街张信小学",
+                "longitude": 114.710149,
+                "latitude": 30.890161,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.710149,
+                    30.890161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市新洲区邾城街益源幼儿园",
+                "longitude": 114.809121,
+                "latitude": 30.841478,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.809121,
+                    30.841478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "王家河镇建群小学",
+                "longitude": 114.447293,
+                "latitude": 30.915007,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.447293,
+                    30.915007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市黄陂区实验中学(南区)",
+                "longitude": 114.387699,
+                "latitude": 30.87801,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387699,
+                    30.87801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阳逻街第一初级中学余集校区",
+                "longitude": 114.594845,
+                "latitude": 30.73808,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.594845,
+                    30.73808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "张岗小学",
+                "longitude": 114.502217,
+                "latitude": 30.852426,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.502217,
+                    30.852426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉工程职业技术学院-图书馆",
+                "longitude": 114.554375,
+                "latitude": 30.719601,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.554375,
+                    30.719601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "上岗小学",
+                "longitude": 114.64924,
+                "latitude": 30.917604,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.64924,
+                    30.917604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲区辛冲街干河小学",
+                "longitude": 114.85922,
+                "latitude": 30.805903,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.85922,
+                    30.805903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泡桐石膏像模具长",
+                "longitude": 114.213233,
+                "latitude": 31.086546,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.213233,
+                    31.086546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "王家河建中小学-南门",
+                "longitude": 114.45429,
+                "latitude": 30.937691,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.45429,
+                    30.937691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "李集街红卫小学-东门",
+                "longitude": 114.185045,
+                "latitude": 31.040569,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.185045,
+                    31.040569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "徐古街桃花小学-西门",
+                "longitude": 114.975759,
+                "latitude": 30.920405,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.975759,
+                    30.920405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "左河小学-西门",
+                "longitude": 114.907123,
+                "latitude": 30.838577,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.907123,
+                    30.838577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "辛冲镇河东小学-东门",
+                "longitude": 114.850427,
+                "latitude": 30.791951,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.850427,
+                    30.791951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲区汪集冯铺小学-东门",
+                "longitude": 114.714638,
+                "latitude": 30.755344,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.714638,
+                    30.755344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蔡榨小学-北门",
+                "longitude": 114.548381,
+                "latitude": 30.925358,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.548381,
+                    30.925358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "张秀益小塆",
+                "longitude": 114.368215,
+                "latitude": 31.048383,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.368215,
+                    31.048383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂区社区教育学院职高-老校门",
+                "longitude": 114.376817,
+                "latitude": 30.868784,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.376817,
+                    30.868784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金星小学乡村学校少年宫",
+                "longitude": 114.346538,
+                "latitude": 30.900361,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.346538,
+                    30.900361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "徐古绿化小学附属幼儿园",
+                "longitude": 114.945302,
+                "latitude": 30.940111,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.945302,
+                    30.940111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市新洲区第一中学-南门",
+                "longitude": 114.821686,
+                "latitude": 30.852523,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.821686,
+                    30.852523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉生物工程学院-学府家园",
+                "longitude": 114.532141,
+                "latitude": 30.720663,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.532141,
+                    30.720663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂区长岭街十棵松小学-东北门",
+                "longitude": 114.351238,
+                "latitude": 31.166586,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.351238,
+                    31.166586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂区达义小学-西南门",
+                "longitude": 114.247985,
+                "latitude": 30.958654,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.247985,
+                    30.958654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市新洲区徐古街中心小学(东南门)",
+                "longitude": 114.987784,
+                "latitude": 30.950652,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.987784,
+                    30.950652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "塔耳中学-西门",
+                "longitude": 114.470075,
+                "latitude": 31.102841,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.470075,
+                    31.102841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红星小学-东门",
+                "longitude": 114.18498,
+                "latitude": 30.944551,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.18498,
+                    30.944551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市黄陂区实验中学-西门",
+                "longitude": 114.38692,
+                "latitude": 30.877842,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.38692,
+                    30.877842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大潭小学-南门",
+                "longitude": 114.414114,
+                "latitude": 30.801364,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.414114,
+                    30.801364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉工程职业技术学院图书馆-北门",
+                "longitude": 114.554372,
+                "latitude": 30.719669,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.554372,
+                    30.719669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "塔耳岗乡中心小学-北门",
+                "longitude": 114.469012,
+                "latitude": 31.103222,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.469012,
+                    31.103222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长堰小学-西门",
+                "longitude": 114.459181,
+                "latitude": 31.001976,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.459181,
+                    31.001976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂李集小学-西北门",
+                "longitude": 114.242095,
+                "latitude": 31.015281,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.242095,
+                    31.015281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲区丝宝小学-南门",
+                "longitude": 114.872296,
+                "latitude": 30.924337,
+                "attribute": "学校"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.872296,
+                    30.924337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "沃尔玛购物广场(奥山世纪广场店)",
+                "longitude": 114.366982,
+                "latitude": 30.624069,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.366982,
+                    30.624069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百仓储(沿港路购物广场店)",
+                "longitude": 114.410332,
+                "latitude": 30.64361,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410332,
+                    30.64361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "沃尔玛购物广场(武汉青山印象城店)",
+                "longitude": 114.397942,
+                "latitude": 30.638005,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.397942,
+                    30.638005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百仓储(钢都购物广场店)",
+                "longitude": 114.374904,
+                "latitude": 30.620032,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374904,
+                    30.620032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百仓储超市(青山108街店)",
+                "longitude": 114.402932,
+                "latitude": 30.628993,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402932,
+                    30.628993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(大洲购物广场店)",
+                "longitude": 114.389214,
+                "latitude": 30.623401,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.389214,
+                    30.623401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商超市(友谊店)",
+                "longitude": 114.384278,
+                "latitude": 30.621327,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.384278,
+                    30.621327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商超市(武商奥莱生活馆)",
+                "longitude": 114.382703,
+                "latitude": 30.632389,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.382703,
+                    30.632389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(白玉山中心店)",
+                "longitude": 114.490389,
+                "latitude": 30.612541,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.490389,
+                    30.612541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百仓储(武东路店)",
+                "longitude": 114.462741,
+                "latitude": 30.585138,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.462741,
+                    30.585138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(青翠园店)",
+                "longitude": 114.396931,
+                "latitude": 30.625099,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.396931,
+                    30.625099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(吉林街店)",
+                "longitude": 114.381594,
+                "latitude": 30.627594,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.381594,
+                    30.627594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(柴林花园店)",
+                "longitude": 114.374811,
+                "latitude": 30.613939,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374811,
+                    30.613939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(工业四路店)",
+                "longitude": 114.413417,
+                "latitude": 30.634656,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.413417,
+                    30.634656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(青扬十街店)",
+                "longitude": 114.408002,
+                "latitude": 30.647032,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408002,
+                    30.647032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(现代花园店)",
+                "longitude": 114.413432,
+                "latitude": 30.62536,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.413432,
+                    30.62536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(工业路新家园店)",
+                "longitude": 114.393449,
+                "latitude": 30.631005,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.393449,
+                    30.631005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(建设三路店)",
+                "longitude": 114.387812,
+                "latitude": 30.630966,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387812,
+                    30.630966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(49街店)",
+                "longitude": 114.37572,
+                "latitude": 30.633159,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.37572,
+                    30.633159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "快一家超市(园林路店)",
+                "longitude": 114.376107,
+                "latitude": 30.616109,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.376107,
+                    30.616109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(怡景苑店)",
+                "longitude": 114.356982,
+                "latitude": 30.621628,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.356982,
+                    30.621628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(青宜居店)",
+                "longitude": 114.42742,
+                "latitude": 30.649155,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.42742,
+                    30.649155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "快一家超市(钢花新村112街坊店)",
+                "longitude": 114.399415,
+                "latitude": 30.627069,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.399415,
+                    30.627069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(江南春城店)",
+                "longitude": 114.385045,
+                "latitude": 30.635249,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.385045,
+                    30.635249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鑫国杰百货超市",
+                "longitude": 114.480461,
+                "latitude": 30.624102,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.480461,
+                    30.624102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美滋乐超市",
+                "longitude": 114.408751,
+                "latitude": 30.637036,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408751,
+                    30.637036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "耀邦生活超市",
+                "longitude": 114.376632,
+                "latitude": 30.635197,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.376632,
+                    30.635197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丽红超市(B5店)",
+                "longitude": 114.376481,
+                "latitude": 30.616244,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.376481,
+                    30.616244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青凤超市(康达社区西)",
+                "longitude": 114.493407,
+                "latitude": 30.615813,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.493407,
+                    30.615813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丽红超市(南干渠店)",
+                "longitude": 114.375983,
+                "latitude": 30.621524,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.375983,
+                    30.621524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "盒马鲜生(红坊里店)",
+                "longitude": 114.38918,
+                "latitude": 30.634583,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.38918,
+                    30.634583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "秀威超市",
+                "longitude": 114.406468,
+                "latitude": 30.629105,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.406468,
+                    30.629105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "辛辛超市",
+                "longitude": 114.425093,
+                "latitude": 30.655421,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.425093,
+                    30.655421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "飞燕粮油超市",
+                "longitude": 114.465189,
+                "latitude": 30.592632,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.465189,
+                    30.592632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鑫北湖超市",
+                "longitude": 114.509634,
+                "latitude": 30.620358,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.509634,
+                    30.620358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市青山区武东海伦国际员工超市",
+                "longitude": 114.476506,
+                "latitude": 30.589574,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.476506,
+                    30.589574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大洲购物广场(中百仓储店)",
+                "longitude": 114.389141,
+                "latitude": 30.623501,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.389141,
+                    30.623501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "晨翔超市",
+                "longitude": 114.364781,
+                "latitude": 30.628349,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.364781,
+                    30.628349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天天红生活超市",
+                "longitude": 114.531088,
+                "latitude": 30.623051,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.531088,
+                    30.623051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小杨超市",
+                "longitude": 114.452229,
+                "latitude": 30.600681,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.452229,
+                    30.600681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "平价超市",
+                "longitude": 114.47867,
+                "latitude": 30.63341,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.47867,
+                    30.63341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鑫兴鑫超市",
+                "longitude": 114.370854,
+                "latitude": 30.628939,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.370854,
+                    30.628939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "同英超市",
+                "longitude": 114.413032,
+                "latitude": 30.625345,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.413032,
+                    30.625345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "刚亮超市",
+                "longitude": 114.412246,
+                "latitude": 30.633562,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.412246,
+                    30.633562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "诗语批发超市",
+                "longitude": 114.445992,
+                "latitude": 30.608021,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.445992,
+                    30.608021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "沿港湾超市",
+                "longitude": 114.410329,
+                "latitude": 30.64068,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410329,
+                    30.64068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "放心便民超市",
+                "longitude": 114.464589,
+                "latitude": 30.591512,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.464589,
+                    30.591512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "川宇超市",
+                "longitude": 114.395547,
+                "latitude": 30.629175,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.395547,
+                    30.629175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "星兵超市",
+                "longitude": 114.370489,
+                "latitude": 30.627465,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.370489,
+                    30.627465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "八吉超市批发",
+                "longitude": 114.496994,
+                "latitude": 30.612407,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.496994,
+                    30.612407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "晓斌超市",
+                "longitude": 114.402115,
+                "latitude": 30.624315,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402115,
+                    30.624315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "好客隆超市(白玉路店)",
+                "longitude": 114.483355,
+                "latitude": 30.618335,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.483355,
+                    30.618335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "建十佳佳超市",
+                "longitude": 114.416695,
+                "latitude": 30.649345,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.416695,
+                    30.649345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "百佳新生活超市",
+                "longitude": 114.473144,
+                "latitude": 30.592875,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.473144,
+                    30.592875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "琼梅超市",
+                "longitude": 114.413784,
+                "latitude": 30.647351,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.413784,
+                    30.647351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "吉慕超市(青山店)",
+                "longitude": 114.392643,
+                "latitude": 30.624837,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.392643,
+                    30.624837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "智鸿超市",
+                "longitude": 114.382129,
+                "latitude": 30.613287,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.382129,
+                    30.613287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "清松副食",
+                "longitude": 114.447848,
+                "latitude": 30.658806,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.447848,
+                    30.658806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "臻妙超市",
+                "longitude": 114.428476,
+                "latitude": 30.649623,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.428476,
+                    30.649623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "好特卖HotMaxx(武汉青山印象城店)",
+                "longitude": 114.396975,
+                "latitude": 30.637738,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.396975,
+                    30.637738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丽红生鲜(青宜居2店)",
+                "longitude": 114.428498,
+                "latitude": 30.649863,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.428498,
+                    30.649863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "馨居超市",
+                "longitude": 114.464638,
+                "latitude": 30.591746,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.464638,
+                    30.591746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "便民超市",
+                "longitude": 114.4747,
+                "latitude": 30.601651,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.4747,
+                    30.601651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百超市(江璟城店)",
+                "longitude": 114.40268,
+                "latitude": 30.645303,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40268,
+                    30.645303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丽红超市(108街店)",
+                "longitude": 114.402891,
+                "latitude": 30.628765,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402891,
+                    30.628765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蝌马生鲜超市",
+                "longitude": 114.428407,
+                "latitude": 30.645629,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.428407,
+                    30.645629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉市青山区芳玲超市",
+                "longitude": 114.425117,
+                "latitude": 30.650349,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.425117,
+                    30.650349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "月牙超市",
+                "longitude": 114.41441,
+                "latitude": 30.635628,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.41441,
+                    30.635628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丽红超市(a3区)",
+                "longitude": 114.375991,
+                "latitude": 30.621523,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.375991,
+                    30.621523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "伴跃超市(青山店)",
+                "longitude": 114.405653,
+                "latitude": 30.634924,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.405653,
+                    30.634924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "24小时平价超市",
+                "longitude": 114.444367,
+                "latitude": 30.613352,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.444367,
+                    30.613352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "众益鑫超市(武汉青山店)",
+                "longitude": 114.427846,
+                "latitude": 30.644836,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.427846,
+                    30.644836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鑫贵发超市",
+                "longitude": 114.441696,
+                "latitude": 30.626482,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.441696,
+                    30.626482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "铁珞山超市",
+                "longitude": 114.436743,
+                "latitude": 30.629241,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.436743,
+                    30.629241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "佳怡琳琳超市",
+                "longitude": 114.419934,
+                "latitude": 30.650964,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.419934,
+                    30.650964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "荣域生鲜超市",
+                "longitude": 114.389854,
+                "latitude": 30.632413,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.389854,
+                    30.632413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "楷楷平价超市",
+                "longitude": 114.421619,
+                "latitude": 30.65244,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.421619,
+                    30.65244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东兴生活超市",
+                "longitude": 114.370581,
+                "latitude": 30.627358,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.370581,
+                    30.627358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浩邦平价超市",
+                "longitude": 114.383492,
+                "latitude": 30.626026,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.383492,
+                    30.626026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "琪晗平价超市",
+                "longitude": 114.383977,
+                "latitude": 30.626341,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.383977,
+                    30.626341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武东百货超市",
+                "longitude": 114.467285,
+                "latitude": 30.583867,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.467285,
+                    30.583867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "雨顺生活超市",
+                "longitude": 114.379985,
+                "latitude": 30.61946,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.379985,
+                    30.61946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东兴生活超市",
+                "longitude": 114.374986,
+                "latitude": 30.633401,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374986,
+                    30.633401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "牧兰山团购超市",
+                "longitude": 114.407382,
+                "latitude": 30.629904,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.407382,
+                    30.629904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天天鑫生鲜超市",
+                "longitude": 114.465658,
+                "latitude": 30.592726,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.465658,
+                    30.592726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "沈鲜生生活超市",
+                "longitude": 114.370004,
+                "latitude": 30.619278,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.370004,
+                    30.619278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美德佳超市",
+                "longitude": 114.471861,
+                "latitude": 30.59204,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.471861,
+                    30.59204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "优美生鲜超市",
+                "longitude": 114.411906,
+                "latitude": 30.62944,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.411906,
+                    30.62944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "123便民超市",
+                "longitude": 114.376008,
+                "latitude": 30.620901,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.376008,
+                    30.620901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "好印象超市",
+                "longitude": 114.398483,
+                "latitude": 30.63943,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.398483,
+                    30.63943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "冷记超市",
+                "longitude": 114.486249,
+                "latitude": 30.611863,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.486249,
+                    30.611863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "耀邦生活超市",
+                "longitude": 114.381545,
+                "latitude": 30.63769,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.381545,
+                    30.63769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "德德超市",
+                "longitude": 114.422616,
+                "latitude": 30.654163,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.422616,
+                    30.654163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "爱心超市(二十一号公路店)",
+                "longitude": 114.475301,
+                "latitude": 30.639858,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.475301,
+                    30.639858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "博涛平价超市",
+                "longitude": 114.422061,
+                "latitude": 30.650413,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.422061,
+                    30.650413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "兴达超市(工人村路店)",
+                "longitude": 114.436013,
+                "latitude": 30.637966,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.436013,
+                    30.637966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "徐圣超市",
+                "longitude": 114.410382,
+                "latitude": 30.652072,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410382,
+                    30.652072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "四季尚超市",
+                "longitude": 114.410978,
+                "latitude": 30.651354,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410978,
+                    30.651354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金玉超市(站前路店)",
+                "longitude": 114.443689,
+                "latitude": 30.616618,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.443689,
+                    30.616618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "转角有家超市",
+                "longitude": 114.424264,
+                "latitude": 30.651744,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.424264,
+                    30.651744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小建生鲜超市",
+                "longitude": 114.414702,
+                "latitude": 30.628295,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.414702,
+                    30.628295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "梦圆超市",
+                "longitude": 114.381939,
+                "latitude": 30.623132,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.381939,
+                    30.623132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钢花超市",
+                "longitude": 114.388867,
+                "latitude": 30.629402,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.388867,
+                    30.629402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "垦荒人(青山建二店)",
+                "longitude": 114.385392,
+                "latitude": 30.631883,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.385392,
+                    30.631883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宇轩烟酒超市",
+                "longitude": 114.407436,
+                "latitude": 30.629374,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.407436,
+                    30.629374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海燕百货店",
+                "longitude": 114.413489,
+                "latitude": 30.631241,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.413489,
+                    30.631241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小熊精品烟酒",
+                "longitude": 114.389204,
+                "latitude": 30.632078,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.389204,
+                    30.632078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "智能仓超市",
+                "longitude": 114.438542,
+                "latitude": 30.628018,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.438542,
+                    30.628018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "方园生鲜超市",
+                "longitude": 114.396612,
+                "latitude": 30.629234,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.396612,
+                    30.629234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "超马鲜生超市",
+                "longitude": 114.374913,
+                "latitude": 30.619911,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374913,
+                    30.619911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "果然水果超市",
+                "longitude": 114.488803,
+                "latitude": 30.612466,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.488803,
+                    30.612466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商建二商场",
+                "longitude": 114.382023,
+                "latitude": 30.63111,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.382023,
+                    30.63111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "乐家便利超市",
+                "longitude": 114.474166,
+                "latitude": 30.64002,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.474166,
+                    30.64002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "兰地超市",
+                "longitude": 114.403373,
+                "latitude": 30.625469,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403373,
+                    30.625469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "李家好超市",
+                "longitude": 114.405884,
+                "latitude": 30.641324,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.405884,
+                    30.641324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "秋华便利店",
+                "longitude": 114.399858,
+                "latitude": 30.627421,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.399858,
+                    30.627421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红棉超市",
+                "longitude": 114.375514,
+                "latitude": 30.632723,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.375514,
+                    30.632723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "飞燕粮油超市武汉市青山区",
+                "longitude": 114.462573,
+                "latitude": 30.584188,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.462573,
+                    30.584188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "润丰烟酒超市",
+                "longitude": 114.417131,
+                "latitude": 30.656319,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.417131,
+                    30.656319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "便民商店",
+                "longitude": 114.380851,
+                "latitude": 30.624244,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.380851,
+                    30.624244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新东方便利店",
+                "longitude": 114.381802,
+                "latitude": 30.623272,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.381802,
+                    30.623272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "日月平价超市",
+                "longitude": 114.411858,
+                "latitude": 30.626975,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.411858,
+                    30.626975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "德润视界(武汉青山印象城店)",
+                "longitude": 114.397939,
+                "latitude": 30.63809,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.397939,
+                    30.63809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "烟酒超市",
+                "longitude": 114.406799,
+                "latitude": 30.625598,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.406799,
+                    30.625598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "靓英副食超市",
+                "longitude": 114.399342,
+                "latitude": 30.629448,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.399342,
+                    30.629448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "林秀便利店",
+                "longitude": 114.371496,
+                "latitude": 30.620643,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.371496,
+                    30.620643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阔浪烟酒超市",
+                "longitude": 114.401102,
+                "latitude": 30.624989,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.401102,
+                    30.624989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "烟酒超市",
+                "longitude": 114.378911,
+                "latitude": 30.611924,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.378911,
+                    30.611924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青柳折扣超市",
+                "longitude": 114.374553,
+                "latitude": 30.6314,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374553,
+                    30.6314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和美烟酒超市",
+                "longitude": 114.408953,
+                "latitude": 30.629309,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408953,
+                    30.629309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和美烟酒超市",
+                "longitude": 114.408953,
+                "latitude": 30.629309,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408953,
+                    30.629309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "耀邦烟酒副食",
+                "longitude": 114.367949,
+                "latitude": 30.626179,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.367949,
+                    30.626179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "计生用品超市",
+                "longitude": 114.489029,
+                "latitude": 30.609199,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.489029,
+                    30.609199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新华欣保险超市",
+                "longitude": 114.382159,
+                "latitude": 30.613302,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.382159,
+                    30.613302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "橙橙烟酒超市",
+                "longitude": 114.402444,
+                "latitude": 30.644397,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402444,
+                    30.644397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "无界时尚宠物商品超市(武汉青山印象城店)",
+                "longitude": 114.397659,
+                "latitude": 30.638085,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.397659,
+                    30.638085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "殡葬用品超市",
+                "longitude": 114.408324,
+                "latitude": 30.637026,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408324,
+                    30.637026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉创新创业",
+                "longitude": 114.426439,
+                "latitude": 30.651136,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.426439,
+                    30.651136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "航院早餐",
+                "longitude": 114.447966,
+                "latitude": 30.66119,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.447966,
+                    30.66119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "橙橙烟酒超市",
+                "longitude": 114.402444,
+                "latitude": 30.644397,
+                "attribute": "超市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402444,
+                    30.644397
+                ]
+            }
+        }
+    ]
+}
